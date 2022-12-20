@@ -1,0 +1,6 @@
+
+1 tensor(0.2034, device='cuda:0', grad_fn=<AddBackward0>)
+2 tensor(0.2185, device='cuda:0', grad_fn=<AddBackward0>)
+3 tensor(0.2493, device='cuda:0', grad_fn=<AddBackward0>)
+4 tensor(0.3183, device='cuda:0', grad_fn=<AddBackward0>)
+5 tensor(0.1461, device='cuda:0', grad_fn=<AddBackward0>)
